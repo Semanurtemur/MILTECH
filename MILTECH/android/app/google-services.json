@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330122691292",
+    "project_id": "miltech-e9e3b",
+    "storage_bucket": "miltech-e9e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330122691292:android:f1ca0288f8647d7266aa19",
+        "android_client_info": {
+          "package_name": "com.example.miltech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330122691292-pu872v67bqm4l1i10qedsljd99ofvmii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNxzAOdfhWFE2EIOK8D_iQxGIEn4qpmXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330122691292-pu872v67bqm4l1i10qedsljd99ofvmii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
